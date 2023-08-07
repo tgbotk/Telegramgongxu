@@ -5,6 +5,7 @@
 支持连发功能
 支持充多少送多少功能
 支持群发，支持付费进群
+演示机器人 https://t.me/shuixingTGbot
 # 定制Telegram机器人与Telegram机器人开发请联系
 一号客服 ：https://t.me/fufeikcb
 二号客服 ：https://t.me/fufeikck
